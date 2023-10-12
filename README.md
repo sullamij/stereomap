@@ -19,7 +19,7 @@ from extract_results import Bard_Result
 result = Bard_Result('result_file.csv')
 result.save_results_to_df() 
 ```
-! Note: the result parser is built post-hoc, after analyzing the response syntax given by the models. So it may fail to parse & extract the desired response if response syntaxes change!
+! Note: the result parser is built post-hoc, i.e., after analyzing the response syntax given by the models. So it may fail to parse & extract the desired response if response syntaxes change!
 
 3. Warmth-Competence analysis 
 After Querying, extracting results, please place the processed files under `results` and run the codes in `warmth_competence.py` 
