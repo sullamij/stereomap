@@ -1,0 +1,9 @@
+bardapi 
+openai
+adjustText
+plotly
+matplotlib 
+sentence-transformers
+nltk
+faiss
+keybert
