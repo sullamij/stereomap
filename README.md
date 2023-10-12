@@ -6,7 +6,7 @@ Github Repo for the paper: STEREOMAP How Stereotypes in Large Language Models Re
 ### File Description 📃
 1. Querying
 
-`query_LLM.py`: example usage `python -m query_LLM --interim_file result_text-davinci-003_interim_prompt_reason_promptabc --api openai --out_dir result/result_text-davinci-003_prompt_reason_promptabc --prompt_type prompt_reason --model text-davinci-003 --prompt_abc`
+`query_LLM.py`: example usage """python -m query_LLM --interim_file result_text-davinci-003_interim_prompt_reason_promptabc --api openai --out_dir result/result_text-davinci-003_prompt_reason_promptabc --prompt_type prompt_reason --model text-davinci-003 --prompt_abc"""
 
 2. Extract Results 
 - terminal 
